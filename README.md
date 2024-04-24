@@ -1,4 +1,4 @@
-[ATBMHTTT_Nhom10.docx](https://github.com/vantohuu/ATBM/files/15098170/ATBMHTTT_Nhom10.docx)"# ATBM" 
+"# ATBM" 
 Môn học An Toàn Bảo Mật Hệ Thống Thông Tin
 
 Lab: Social engineering 
@@ -13,3 +13,5 @@ B1: Tạo một trang lừa đảo: Ở ví dụ này ta tạo một trang đăn
 
  
 ![image](https://github.com/vantohuu/ATBM/assets/82772386/48e1e7ba-2d7a-4f98-b09a-1edee3021828)
+
+Xem thêm ở [ATBMHTTT_Nhom10.docx](https://github.com/vantohuu/ATBM/files/15098170/ATBMHTTT_Nhom10.docx)
